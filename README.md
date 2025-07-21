@@ -4,14 +4,14 @@
 
 Click on the button below to deploy the baseline infrastructure using OCI Resource Manager.
 
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/howowi/supremo-rental-quickstart/releases/download/v1.9.10/supremo_stack_v1.9.10.zip)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/oliviadyz/supremo-rental-quickstart-v1/releases/download/v1.9.10/supremo_stack_v1.9.10.zip)
 
 ### 2. Deploy frontend application
 **IMPORTANT**: Must complete the baseline infrastructure setup before following the steps below.
 
 #### Github Repository Setup
 
-1. Fork the [Supremo Rental Quickstart Github Repository](https://github.com/howowi/supremo-rental-quickstart) to your Github account. Follow the steps in this [link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=webui#forking-a-repository) on the steps to fork a repository.
+1. Fork the [Supremo Rental Quickstart Github Repository](https://github.com/oliviadyz/supremo-rental-quickstart-v1) to your Github account. Follow the steps in this [link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=webui#forking-a-repository) on the steps to fork a repository.
 
 2. Clone the repository on your local terminal or Cloud Shell.
 
